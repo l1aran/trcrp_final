@@ -1,0 +1,85 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+bin/
+build/
+develop-eggs/
+dist/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+
+# Translations
+*.mo
+
+# Mr Developer
+.mr.developer.cfg
+.project
+.pydevproject
+
+# Rope
+.ropeproject
+
+# Django stuff:
+*.log
+*.pot
+
+# Sphinx documentation
+docs/_build/
+
+# gpmcc artifacts
+*.engine*
+*.bak*
+
+# numpy binaries
+*.npy
+
+# latex artifacts
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.synctex.gz
+*_minted-*
+*.pdf
+
+# specific directories
+examples/malawi/resources/
+examples/satellites/splits/
+examples/swallows/resources/
+examples/swallows/splits/
+examples/swallows/univariate.py
+experiments/resources/
+experiments/*/resources/
+cgpm
+src/debug
+src/venturescript/resources
+notes/gpm/vs/vsgpm.pdf
+tests/resources
+/src/version.py

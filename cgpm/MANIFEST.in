@@ -1,0 +1,13 @@
+include LICENSE.txt
+include README.md
+include check.sh
+include pythenv.sh
+include tests/graphical/animals.py
+include tests/graphical/depprob_id.py
+include tests/graphical/dpmm_nignormal.py
+include tests/graphical/one_view.py
+include tests/graphical/recover.py
+include tests/graphical/resources/satellites.csv
+include tests/graphical/slice.py
+include tests/graphical/two_views.py
+include tests/graphical/zero_corr.py
